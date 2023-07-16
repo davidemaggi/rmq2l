@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rmq2l.shared.models", "rmq2l.shared.models.csproj", "{EEF628F2-C402-48E1-811F-6403B3455E13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEF628F2-C402-48E1-811F-6403B3455E13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEF628F2-C402-48E1-811F-6403B3455E13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEF628F2-C402-48E1-811F-6403B3455E13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEF628F2-C402-48E1-811F-6403B3455E13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0CDD2F9-7431-4806-8A53-9368B2CF59DF}
+	EndGlobalSection
+EndGlobal
